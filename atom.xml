@@ -2,7 +2,7 @@
 <feed xmlns="https://www.w3.org/2005/Atom">
   <title>Hack room</title>
   
-  
+  <subtitle>无穷的伟大,也是从“一”开始的。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://qaz520.github.io/"/>
