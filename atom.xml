@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://qaz520.github.io/"/>
   <updated>2019-11-15T14:34:56.052Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://qaz520.github.io/</id>
   
   <author>
     <name>骇客栈</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>kuaile</title>
-    <link href="http://yoursite.com/2019/11/15/kuaile/"/>
-    <id>http://yoursite.com/2019/11/15/kuaile/</id>
+    <link href="https://qaz520.github.io/2019/11/15/kuaile/"/>
+    <id>https://qaz520.github.io/2019/11/15/kuaile/</id>
     <published>2019-11-15T14:34:55.908Z</published>
     <updated>2019-11-15T14:34:56.052Z</updated>
     
@@ -43,8 +43,8 @@
   
   <entry>
     <title>你好</title>
-    <link href="http://yoursite.com/2019/11/15/%E4%BD%A0%E5%A5%BD/"/>
-    <id>http://yoursite.com/2019/11/15/%E4%BD%A0%E5%A5%BD/</id>
+    <link href="https://qaz520.github.io/2019/11/15/%E4%BD%A0%E5%A5%BD/"/>
+    <id>https://qaz520.github.io/2019/11/15/%E4%BD%A0%E5%A5%BD/</id>
     <published>2019-11-15T14:18:03.655Z</published>
     <updated>2019-11-15T14:18:03.855Z</updated>
     
