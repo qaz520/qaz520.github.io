@@ -2,11 +2,11 @@
 <feed xmlns="https://www.w3.org/2005/Atom">
   <title>Hack room</title>
   
-  <subtitle>无穷的伟大,也是从“一”开始的。</subtitle>
+  <subtitle>无穷的伟大,也是从一开始的。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://qaz520.github.io/"/>
-  <updated>2019-11-17T02:56:15.596Z</updated>
+  <updated>2019-11-18T16:23:08.728Z</updated>
   <id>https://qaz520.github.io/</id>
   
   <author>
@@ -17,25 +17,23 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>第一篇文章</title>
-    <link href="https://qaz520.github.io/2019/11/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>https://qaz520.github.io/2019/11/17/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
-    <published>2019-11-17T02:56:15.410Z</published>
-    <updated>2019-11-17T02:56:15.596Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="hello-word"><a href="#hello-word" class="headerlink" title="hello word"></a>hello word</h1><p>123456</p>]]></content>
+    <title>hexo博客+next主题建设及配置</title>
+    <link href="https://qaz520.github.io/2017/05/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://qaz520.github.io/2017/05/26/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2017-05-26T04:12:57.000Z</published>
+    <updated>2019-11-18T16:23:08.728Z</updated>
     
     <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;hello-word&quot;&gt;&lt;a href=&quot;#hello-word&quot; class=&quot;headerlink&quot; title=&quot;hello word&quot;&gt;&lt;/a&gt;hello word&lt;/h1&gt;&lt;p&gt;123456&lt;/p&gt;
-
-      
     
     </summary>
     
     
+      <category term="站点建设" scheme="https://qaz520.github.io/categories/%E7%AB%99%E7%82%B9%E5%BB%BA%E8%AE%BE/"/>
+    
+    
+      <category term="站点配置" scheme="https://qaz520.github.io/tags/%E7%AB%99%E7%82%B9%E9%85%8D%E7%BD%AE/"/>
+    
+      <category term="主题配置" scheme="https://qaz520.github.io/tags/%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
